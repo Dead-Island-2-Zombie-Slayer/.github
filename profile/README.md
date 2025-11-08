@@ -1,7 +1,7 @@
 # Dead Island 2 Zombie Slayer
 
 <div align="center">
-<img src="https://fserveu20221222.blob.core.windows.net/files/PlaionGames/2022/08/232147-3942e345/PV_LOGO_v2_POSITIVE_030521.png?sv=2025-07-05&se=2050-12-31T00%3A00%3A00Z&sr=b&sp=r&sig=oXQkJm6jIbdgVkQItrXpAldOWBv6q28yoI8I1XMcPAY%3D&sky=0c08606dbc542227c60f8255dfae448e24fdf30c4bd424484751983bbf93a008" alt="Dead Island 2 Zombie Slayer" width="900">
+<img src="https://cdn2.steamgriddb.com/logo_thumb/754ee3504e8dbfe106cc6ec4583d7968.png" alt="Dead Island 2 Zombie Slayer" width="900">
 </div>
 <br>
 
